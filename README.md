@@ -1,4 +1,4 @@
-# Macroscopic analysis of non-motorist crash outcome in Oklahoma
+# Macroscopic Analysis of Non-motorist Crash Outcome in Oklahoma
 
 This project implemented a comprehensive data preprocessing pipeline and advanced modeling techniques to predict crash severity in Oklahoma. 
 Feature selection involved removing irrelevant, redundant, and low-variance features, as well as those with over 30% missing data, ensuring a clean dataset. 
